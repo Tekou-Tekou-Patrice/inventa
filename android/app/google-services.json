@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71208201851",
+    "project_id": "inventa-5cad4",
+    "storage_bucket": "inventa-5cad4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71208201851:android:8215c4a34905f9a194bcde",
+        "android_client_info": {
+          "package_name": "com.example.inventa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuj1vB160FKwaLYH1uAJVi4BHazRD2EKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
